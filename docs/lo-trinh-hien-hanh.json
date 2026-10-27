@@ -1,0 +1,670 @@
+{
+  "version": "2026-10-26-final-assessment",
+  "status": "current",
+  "total_units": 19,
+  "total_sessions": 30,
+  "session_minutes": 90,
+  "teaching_sessions": 29,
+  "assessment_sessions": 1,
+  "total_hours": 45,
+  "units": [
+    {
+      "unit": 0,
+      "title_zh": "语音",
+      "title_vi": "Ngữ âm",
+      "sessions": [
+        1,
+        2
+      ],
+      "minutes_per_session": 90,
+      "goal": "Nghe phân biệt thanh, đọc tên và câu chào ngắn.",
+      "sources": {
+        "A": "A Unit 1 tr.10",
+        "B": "B Bài 1-2 tr.13,20; ngữ âm Bài 4-5 tr.34,42",
+        "C": ""
+      },
+      "stage": 1
+    },
+    {
+      "unit": 1,
+      "title_zh": "问候",
+      "title_vi": "Chào hỏi",
+      "sessions": [
+        3
+      ],
+      "minutes_per_session": 90,
+      "goal": "Chào, hỏi thăm, cảm ơn, xin lỗi và đáp lại.",
+      "sources": {
+        "A": "A Unit 2 tr.22",
+        "B": "B Bài 1-2 tr.13,20",
+        "C": ""
+      },
+      "stage": 1
+    },
+    {
+      "unit": 2,
+      "title_zh": "姓名与国籍",
+      "title_vi": "Tên, hỏi người và quốc tịch",
+      "sessions": [
+        4
+      ],
+      "minutes_per_session": 90,
+      "goal": "Hỏi tên/họ; hỏi ai; giới thiệu bạn; nói và đính chính quốc tịch.",
+      "sources": {
+        "A": "A Unit 3 tr.32; Unit 4 tr.44",
+        "B": "B Bài 6 tr.52; Bài 8 tr.70",
+        "C": ""
+      },
+      "stage": 1
+    },
+    {
+      "unit": 3,
+      "title_zh": "喜欢与饮食",
+      "title_vi": "Sở thích và ăn uống",
+      "sessions": [
+        5
+      ],
+      "minutes_per_session": 90,
+      "goal": "Nói thích/không thích; gọi món và đồ uống đơn giản.",
+      "sources": {
+        "A": "A Unit 5 tr.56",
+        "B": "B Bài 3 tr.27; Bài 13 tr.127",
+        "C": ""
+      },
+      "stage": 1
+    },
+    {
+      "unit": 4,
+      "title_zh": "去哪儿与学习",
+      "title_vi": "Đi đâu, làm gì, học ở đâu",
+      "sessions": [
+        6,
+        7
+      ],
+      "minutes_per_session": 90,
+      "goal": "4A: hỏi nơi đến/hoạt động. 4B: học gì/học ở đâu với 学习、汉语、在、哪儿、大学、班.",
+      "sources": {
+        "A": "A Unit 6 tr.68",
+        "B": "B Bài 14 tr.141; ngữ liệu Bài 6,8 chuyển từ Unit 2",
+        "C": ""
+      },
+      "stage": 1
+    },
+    {
+      "unit": 5,
+      "title_zh": "日期",
+      "title_vi": "Số đếm, ngày tháng, thứ",
+      "sessions": [
+        8
+      ],
+      "minutes_per_session": 90,
+      "goal": "Nói số, số điện thoại, ngày/thứ; 几、个 khi phù hợp ngữ cảnh.",
+      "sources": {
+        "A": "A Unit 7 tr.80",
+        "B": "B Bài 10 tr.91",
+        "C": ""
+      },
+      "stage": 1
+    },
+    {
+      "unit": 6,
+      "title_zh": "家人与职业",
+      "title_vi": "Gia đình và nghề nghiệp",
+      "sessions": [
+        9
+      ],
+      "minutes_per_session": 90,
+      "goal": "Giới thiệu người thân/nghề; dùng 有、的; 学生、教 trong ngữ cảnh nghề.",
+      "sources": {
+        "A": "A Unit 8 tr.92",
+        "B": "B Bài 9 tr.81",
+        "C": "C Bài 16 tr.11: mở rộng chọn lọc"
+      },
+      "stage": 1
+    },
+    {
+      "unit": 7,
+      "title_zh": "时间",
+      "title_vi": "Giờ giấc và lịch trong ngày",
+      "sessions": [
+        10,
+        11
+      ],
+      "minutes_per_session": 90,
+      "goal": "Hỏi giờ, nói lịch sinh hoạt và hẹn giờ.",
+      "sources": {
+        "A": "A Unit 9 tr.104",
+        "B": "B Bài 10 tr.91",
+        "C": "C Bài 16 tr.11"
+      },
+      "stage": 2
+    },
+    {
+      "unit": 8,
+      "title_zh": "买东西",
+      "title_vi": "Mua sắm và tiền tệ",
+      "sessions": [
+        12,
+        13
+      ],
+      "minutes_per_session": 90,
+      "goal": "Hỏi giá 多少、chọn 这个/那个, nói tiền và số lượng.",
+      "sources": {
+        "A": "A Unit 10 tr.116",
+        "B": "B Bài 4 tr.34; Bài 12 tr.114",
+        "C": "C Bài 17 tr.24"
+      },
+      "stage": 2
+    },
+    {
+      "unit": 9,
+      "title_zh": "年龄",
+      "title_vi": "Tuổi tác và số ước lượng",
+      "sessions": [
+        14
+      ],
+      "minutes_per_session": 90,
+      "goal": "Hỏi tuổi lịch sự; nói tuổi và số lượng gần đúng.",
+      "sources": {
+        "A": "A Unit 11 tr.128",
+        "B": "B Bài 9 tr.81; Bài 15 tr.153",
+        "C": "C Bài 18 tr.35"
+      },
+      "stage": 2
+    },
+    {
+      "unit": 10,
+      "title_zh": "方位与问路",
+      "title_vi": "Phương vị và hỏi vị trí",
+      "sessions": [
+        15,
+        16
+      ],
+      "minutes_per_session": 90,
+      "goal": "Hỏi/chỉ vị trí của người, đồ vật và địa điểm; tái hiện 在.",
+      "sources": {
+        "A": "A Unit 12 tr.140",
+        "B": "B Bài 5 tr.42; Bài 11 tr.103",
+        "C": "C Bài 27 tr.161; Bài 22 tr.88"
+      },
+      "stage": 2
+    },
+    {
+      "unit": 11,
+      "title_zh": "交通",
+      "title_vi": "Phương tiện và chỉ đường",
+      "sessions": [
+        17
+      ],
+      "minutes_per_session": 90,
+      "goal": "Hỏi đi bằng gì; nghe và đưa chỉ đường ngắn.",
+      "sources": {
+        "A": "A Unit 13 tr.152",
+        "B": "B Bài 15 tr.153",
+        "C": "C Bài 24 tr.115"
+      },
+      "stage": 2
+    },
+    {
+      "unit": 12,
+      "title_zh": "身体与健康",
+      "title_vi": "Sức khỏe và triệu chứng",
+      "sessions": [
+        18
+      ],
+      "minutes_per_session": 90,
+      "goal": "Nói khó chịu/triệu chứng, xin giúp, nói điều cần làm.",
+      "sources": {
+        "A": "A Unit 14 tr.164",
+        "B": "B Bài 7 tr.61; Bài 13 tr.127",
+        "C": "C Bài 18 tr.35; Bài 19 tr.48"
+      },
+      "stage": 2
+    },
+    {
+      "unit": 13,
+      "title_zh": "天气与比较",
+      "title_vi": "Thời tiết và so sánh",
+      "sessions": [
+        19,
+        20
+      ],
+      "minutes_per_session": 90,
+      "goal": "Hỏi thời tiết và so sánh đơn giản để chọn phương án.",
+      "sources": {
+        "A": "A Unit 15 tr.176",
+        "B": "",
+        "C": "C Bài 26 tr.143; Bài 18 tr.35"
+      },
+      "stage": 2
+    },
+    {
+      "unit": 14,
+      "title_zh": "技能与表现",
+      "title_vi": "Kỹ năng và nhận xét",
+      "sessions": [
+        21,
+        22
+      ],
+      "minutes_per_session": 90,
+      "goal": "Nói biết làm gì với 会; nhận xét hoạt động quen thuộc.",
+      "sources": {
+        "A": "",
+        "B": "",
+        "C": "C Bài 19 tr.48"
+      },
+      "stage": 3
+    },
+    {
+      "unit": 15,
+      "title_zh": "计划与旅游",
+      "title_vi": "Kế hoạch và du lịch",
+      "sessions": [
+        23,
+        24
+      ],
+      "minutes_per_session": 90,
+      "goal": "Trao đổi dự định/lịch đi, kể trải nghiệm ngắn.",
+      "sources": {
+        "A": "",
+        "B": "",
+        "C": "C Bài 20 tr.60; Bài 21 tr.74"
+      },
+      "stage": 3
+    },
+    {
+      "unit": 16,
+      "title_zh": "打电话与找人",
+      "title_vi": "Gọi điện, tìm người, nhắn nhờ",
+      "sessions": [
+        25,
+        26
+      ],
+      "minutes_per_session": 90,
+      "goal": "Mở cuộc gọi, tìm người, xin nhắc lại và để lời nhắn.",
+      "sources": {
+        "A": "",
+        "B": "",
+        "C": "C Bài 23 tr.99; Bài 24 tr.115"
+      },
+      "stage": 3
+    },
+    {
+      "unit": 17,
+      "title_zh": "描述与理解",
+      "title_vi": "Miêu tả đơn giản và xử lý khi chưa hiểu",
+      "sessions": [
+        27
+      ],
+      "minutes_per_session": 90,
+      "goal": "Miêu tả ngắn bằng vốn đã học; dùng cụm 听不懂、听得懂、请再说一遍.",
+      "sources": {
+        "A": "",
+        "B": "",
+        "C": "C Bài 22 tr.88; Bài 25 tr.131: chỉ chọn phần phù hợp"
+      },
+      "stage": 3,
+      "required": [
+        "Miêu tả 2-3 câu bằng vốn đã học",
+        "Nghe không hiểu và xin nhắc lại",
+        "Ôn cụm 听不懂、听得懂; không dạy toàn bộ hệ bổ ngữ"
+      ],
+      "not_required": [
+        "地 và láy tính từ",
+        "恐怕 và 怎么(能)…呢",
+        "Hệ bổ ngữ khả năng đầy đủ; để khóa sau/tài liệu tự chọn"
+      ]
+    },
+    {
+      "unit": 18,
+      "title_zh": "麻烦、请求与告别",
+      "title_vi": "Sự cố, nhờ vả, tiễn đưa",
+      "sessions": [
+        28,
+        29
+      ],
+      "minutes_per_session": 90,
+      "goal": "Báo sự cố, nhờ giúp, cảm ơn và tiễn; kết hợp các tình huống đã học.",
+      "sources": {
+        "A": "",
+        "B": "",
+        "C": "C Bài 28 tr.175; Bài 29 tr.185; Bài 30 tr.195: chọn lọc"
+      },
+      "stage": 3
+    }
+  ],
+  "sessions": [
+    {
+      "number": 1,
+      "kind": "teaching",
+      "unit": 0,
+      "part": "A",
+      "minutes": 90
+    },
+    {
+      "number": 2,
+      "kind": "teaching",
+      "unit": 0,
+      "part": "B",
+      "minutes": 90
+    },
+    {
+      "number": 3,
+      "kind": "teaching",
+      "unit": 1,
+      "part": null,
+      "minutes": 90
+    },
+    {
+      "number": 4,
+      "kind": "teaching",
+      "unit": 2,
+      "part": null,
+      "minutes": 90
+    },
+    {
+      "number": 5,
+      "kind": "teaching",
+      "unit": 3,
+      "part": null,
+      "minutes": 90
+    },
+    {
+      "number": 6,
+      "kind": "teaching",
+      "unit": 4,
+      "part": "A",
+      "minutes": 90
+    },
+    {
+      "number": 7,
+      "kind": "teaching",
+      "unit": 4,
+      "part": "B",
+      "minutes": 90
+    },
+    {
+      "number": 8,
+      "kind": "teaching",
+      "unit": 5,
+      "part": null,
+      "minutes": 90
+    },
+    {
+      "number": 9,
+      "kind": "teaching",
+      "unit": 6,
+      "part": null,
+      "minutes": 90
+    },
+    {
+      "number": 10,
+      "kind": "teaching",
+      "unit": 7,
+      "part": "A",
+      "minutes": 90
+    },
+    {
+      "number": 11,
+      "kind": "teaching",
+      "unit": 7,
+      "part": "B",
+      "minutes": 90
+    },
+    {
+      "number": 12,
+      "kind": "teaching",
+      "unit": 8,
+      "part": "A",
+      "minutes": 90
+    },
+    {
+      "number": 13,
+      "kind": "teaching",
+      "unit": 8,
+      "part": "B",
+      "minutes": 90
+    },
+    {
+      "number": 14,
+      "kind": "teaching",
+      "unit": 9,
+      "part": null,
+      "minutes": 90
+    },
+    {
+      "number": 15,
+      "kind": "teaching",
+      "unit": 10,
+      "part": "A",
+      "minutes": 90
+    },
+    {
+      "number": 16,
+      "kind": "teaching",
+      "unit": 10,
+      "part": "B",
+      "minutes": 90
+    },
+    {
+      "number": 17,
+      "kind": "teaching",
+      "unit": 11,
+      "part": null,
+      "minutes": 90
+    },
+    {
+      "number": 18,
+      "kind": "teaching",
+      "unit": 12,
+      "part": null,
+      "minutes": 90
+    },
+    {
+      "number": 19,
+      "kind": "teaching",
+      "unit": 13,
+      "part": "A",
+      "minutes": 90
+    },
+    {
+      "number": 20,
+      "kind": "teaching",
+      "unit": 13,
+      "part": "B",
+      "minutes": 90
+    },
+    {
+      "number": 21,
+      "kind": "teaching",
+      "unit": 14,
+      "part": "A",
+      "minutes": 90
+    },
+    {
+      "number": 22,
+      "kind": "teaching",
+      "unit": 14,
+      "part": "B",
+      "minutes": 90
+    },
+    {
+      "number": 23,
+      "kind": "teaching",
+      "unit": 15,
+      "part": "A",
+      "minutes": 90
+    },
+    {
+      "number": 24,
+      "kind": "teaching",
+      "unit": 15,
+      "part": "B",
+      "minutes": 90
+    },
+    {
+      "number": 25,
+      "kind": "teaching",
+      "unit": 16,
+      "part": "A",
+      "minutes": 90
+    },
+    {
+      "number": 26,
+      "kind": "teaching",
+      "unit": 16,
+      "part": "B",
+      "minutes": 90
+    },
+    {
+      "number": 27,
+      "kind": "teaching",
+      "unit": 17,
+      "part": null,
+      "minutes": 90
+    },
+    {
+      "number": 28,
+      "kind": "teaching",
+      "unit": 18,
+      "part": "A",
+      "minutes": 90
+    },
+    {
+      "number": 29,
+      "kind": "teaching",
+      "unit": 18,
+      "part": "B",
+      "minutes": 90
+    },
+    {
+      "number": 30,
+      "kind": "final_assessment",
+      "unit": null,
+      "minutes": 90
+    }
+  ],
+  "assessment": {
+    "session": 30,
+    "minutes": 90,
+    "new_content": false,
+    "time_blocks": [
+      [
+        5,
+        "Hướng dẫn quy trình và kiểm tra thiết bị"
+      ],
+      [
+        20,
+        "Nghe hiểu: thông tin cá nhân và tình huống đã học"
+      ],
+      [
+        15,
+        "Phản xạ ngắn: ghi âm trả lời 5 câu hỏi"
+      ],
+      [
+        35,
+        "Đóng vai 2 tình huống; theo cặp/nhóm nhỏ, ghi âm song song"
+      ],
+      [
+        10,
+        "Tự giới thiệu và nói ngắn theo chủ đề đã học; ghi âm"
+      ],
+      [
+        5,
+        "Tự đánh giá và nộp bài"
+      ]
+    ],
+    "score_out_of": 100,
+    "components": [
+      [
+        "Nghe hiểu",
+        20
+      ],
+      [
+        "Phản xạ",
+        20
+      ],
+      [
+        "Hội thoại tình huống",
+        40
+      ],
+      [
+        "Nói ngắn",
+        20
+      ]
+    ],
+    "suggested_pass": {
+      "total_min": 70,
+      "listening_min": 10,
+      "speaking_min": 48
+    },
+    "criteria": [
+      "Đúng thông tin và hoàn thành nhiệm vụ",
+      "Phản hồi phù hợp, có tương tác",
+      "Phát âm/thanh điệu đủ rõ để hiểu",
+      "Dùng được mẫu đã học, không yêu cầu câu phức tạp"
+    ],
+    "constraints": [
+      "Chỉ kiểm tra ngữ liệu đã được dạy và luyện",
+      "Không kiểm tra viết/chép chữ Hán hoặc đọc Hán tự không có pinyin",
+      "Không yêu cầu cả lớp lần lượt thi nói cá nhân trong 90 phút; tổ chức ghi âm/đóng vai song song",
+      "Từ nhận biết không kiểm tra sản sinh ở mức từ chủ động"
+    ],
+    "roleplay_examples": [
+      "Mua hàng và hỏi giá",
+      "Hỏi đường/đi lại",
+      "Gọi điện tìm người và xin nhắc lại",
+      "Nói triệu chứng hoặc báo sự cố và nhờ giúp"
+    ]
+  },
+  "changes": [
+    "Unit 2: 1 buổi, không còn phần hỏi đồ vật/học tiếng Trung trong buổi làm quen",
+    "Unit 4: 2 buổi, có 4B học gì/học ở đâu",
+    "Unit 17: từ 2 xuống 1 buổi; cắt ngữ pháp miêu tả/suy đoán phức tạp khỏi lõi",
+    "Unit 18: buổi 28-29",
+    "Buổi 30: kiểm tra đầu ra 90 phút, không dạy mới"
+  ],
+  "teaching_rules": [
+    "Nghe-nói là trọng tâm; không bắt học viết/nhận mặt chữ",
+    "Mỗi buổi 2-3 chức năng; khoảng 12-15 mục chủ động là mốc khởi đầu để điều chỉnh",
+    "Tách vốn chủ động và nhận biết; không ghép toàn bộ danh sách từ của nhiều bài sách",
+    "Luyện theo 3 tầng: mô phỏng, có gợi ý, thông tin thật; phản hồi sau nhiệm vụ",
+    "Ví dụ xuất hiện ở thẻ từ mới cuối cùng cần biết",
+    "Giảng giải ngắn; giữ thời gian nhiệm vụ nói, không lấn buổi kiểm tra",
+    "Tổng kết và tự luyện theo form Unit 1; form mới nhất đã duyệt ưu tiên",
+    "Cập nhật nội dung từng unit lần lượt khi soạn; không tự sửa hàng loạt giáo án đã chốt"
+  ],
+  "transfers": {
+    "Unit4B": [
+      "学习",
+      "汉语",
+      "在",
+      "哪儿",
+      "大学",
+      "班"
+    ],
+    "Unit5": [
+      "几",
+      "个"
+    ],
+    "Unit6": [
+      "学生",
+      "留学生",
+      "教",
+      "位",
+      "有",
+      "的",
+      "我们",
+      "和",
+      "介绍一下儿"
+    ],
+    "Unit8": [
+      "多少",
+      "那",
+      "书",
+      "电脑",
+      "词典"
+    ]
+  },
+  "scope_note": "Lịch buổi và phạm vi nội dung là nguồn hiện hành. Trang chi tiết các unit chưa soạn vẫn là gợi ý nguồn, không buộc dạy hết các cấu trúc liệt kê."
+}

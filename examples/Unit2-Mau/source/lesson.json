@@ -1,0 +1,702 @@
+{
+  "unit": 2,
+  "title_zh": "姓名与国籍",
+  "title_vi": "Tên và quốc tịch",
+  "sessions": 1,
+  "parts": [
+    {
+      "no": 1,
+      "title": "Hỏi tên, hỏi người và làm quen",
+      "source": "A tr.36; B tr.72",
+      "words": [
+        {
+          "zh": "叫",
+          "vi": "tên là; gọi là",
+          "pos": "động từ",
+          "photo": "名字",
+          "example": "我叫阮清河。",
+          "example_vi": "Tôi tên Nguyễn Thanh Hà.",
+          "priority": "active"
+        },
+        {
+          "zh": "什么",
+          "vi": "gì; cái gì",
+          "pos": "đại từ nghi vấn",
+          "photo": "名字",
+          "example": "你说什么？",
+          "example_vi": "Bạn nói gì?",
+          "priority": "active",
+          "visual": "what"
+        },
+        {
+          "zh": "名字",
+          "vi": "tên",
+          "pos": "danh từ",
+          "photo": "名字",
+          "example": "你叫什么名字？",
+          "example_vi": "Bạn tên gì?",
+          "priority": "active"
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "Hỏi tên và họ",
+          "photo": "bai-khoa-1",
+          "cols": [
+            [
+              [
+                "A",
+                "你叫什么名字？",
+                "Bạn tên gì?"
+              ],
+              [
+                "B",
+                "我叫阮清河。",
+                "Tôi tên Nguyễn Thanh Hà."
+              ]
+            ],
+            [
+              [
+                "A",
+                "您贵姓？",
+                "Anh/chị họ gì ạ?"
+              ],
+              [
+                "B",
+                "我姓阮。",
+                "Tôi họ Nguyễn."
+              ]
+            ]
+          ],
+          "subs": [
+            [
+              "陈林、麦克"
+            ],
+            [
+              "王、李"
+            ]
+          ],
+          "source_original_audio": "bk-a1.m4a",
+          "characters": {
+            "A": "👨🏻",
+            "B": "👩🏻"
+          },
+          "replacement_links": [
+            {
+              "column": 0,
+              "turn": 1,
+              "source": "阮清河",
+              "alternatives": "陈林、麦克",
+              "id": "book-1-0-link-0"
+            },
+            {
+              "column": 1,
+              "turn": 1,
+              "source": "阮",
+              "alternatives": "陈、李",
+              "id": "book-1-0-link-1"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "title": "Hỏi họ và hỏi tên",
+          "formula": "姓 + họ　／　叫 + họ tên",
+          "examples": [
+            [
+              "您贵姓？我姓陈。",
+              "Anh/chị họ gì ạ? Tôi họ Trần."
+            ],
+            [
+              "你叫什么名字？我叫阮清河。",
+              "Bạn tên gì? Tôi tên Nguyễn Thanh Hà."
+            ]
+          ],
+          "note": "Trả lời bằng 我姓 …; không dùng 我贵姓 …。"
+        },
+        {
+          "title": "Hỏi người bằng 谁",
+          "formula": "这 / 他 / 她 + 是 + 谁？",
+          "examples": [
+            [
+              "这是谁？",
+              "Đây là ai?"
+            ],
+            [
+              "这是我朋友。",
+              "Đây là bạn của tôi."
+            ]
+          ],
+          "note": "谁 hỏi về người; phiên âm dùng shéi. Nói 这是我朋友 cũng tự nhiên khi giới thiệu bạn."
+        }
+      ],
+      "grammar_pages": [
+        {
+          "id": "grammar-1-0-p0",
+          "points": [
+            {
+              "title": "HỎI HỌ VỚI 姓",
+              "formula": "Chủ ngữ + 姓 + họ",
+              "examples": [
+                [
+                  "您贵姓？",
+                  "Anh/chị họ gì ạ?"
+                ],
+                [
+                  "我姓陈。",
+                  "Tôi họ Trần."
+                ],
+                [
+                  "他姓阮。",
+                  "Anh ấy họ Nguyễn."
+                ]
+              ],
+              "explain": "Dùng 贵姓 để hỏi họ lịch sự; dùng 姓 khi trả lời hoặc hỏi về người khác.",
+              "targets": [
+                "姓",
+                "贵姓"
+              ]
+            }
+          ],
+          "note": "Chú ý: Dùng 您贵姓？ để hỏi họ lịch sự; với người thứ ba dùng 他姓什么？. Không dùng 贵 để tự nói họ.",
+          "practice": [
+            {
+              "vi": "Anh/chị họ gì ạ?",
+              "fill": "您[[贵姓]]？",
+              "zh": "您贵姓？",
+              "audio_key": "grammar-ex-0-0",
+              "answer": "贵姓"
+            },
+            {
+              "vi": "Tôi họ Trần.",
+              "fill": "我姓[[陈]]。",
+              "zh": "我姓陈。",
+              "audio_key": "grammar-ex-0-1",
+              "answer": "陈"
+            },
+            {
+              "vi": "Anh ấy họ Nguyễn.",
+              "zh": "他姓阮。",
+              "answer": "姓",
+              "fill": "他[[姓]]阮。",
+              "audio_key": "grammar-ex-more-0"
+            }
+          ],
+          "source": "Sách A, tr.36 và khung Bạn cần biết tr.39, ý 3"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Quốc tịch",
+      "source": "A tr.46; B tr.54,72",
+      "words": [
+        {
+          "zh": "哪",
+          "vi": "nào",
+          "pos": "đại từ nghi vấn",
+          "photo": "flag-vn",
+          "example": "你去哪？",
+          "example_vi": "Bạn đi đâu?",
+          "priority": "active",
+          "visual": "which"
+        },
+        {
+          "zh": "国",
+          "vi": "nước; quốc gia",
+          "pos": "danh từ",
+          "photo": "flag-vn",
+          "example": "哪国？",
+          "example_vi": "Nước nào?",
+          "priority": "active"
+        },
+        {
+          "zh": "人",
+          "vi": "người",
+          "pos": "danh từ",
+          "photo": "luyen-3",
+          "example": "你是哪国人？",
+          "example_vi": "Bạn là người nước nào?",
+          "priority": "active"
+        }
+      ],
+      "dialogues": [
+        {
+          "title": "Hỏi quốc tịch",
+          "photo": "office-intro",
+          "cols": [
+            [
+              [
+                "A",
+                "你是越南人吗？",
+                "Bạn là người Việt Nam phải không?"
+              ],
+              [
+                "B",
+                "我是越南人。",
+                "Tôi là người Việt Nam."
+              ]
+            ],
+            [
+              [
+                "A",
+                "你是哪国人？",
+                "Bạn là người nước nào?"
+              ],
+              [
+                "B",
+                "我是中国人。",
+                "Tôi là người Trung Quốc."
+              ]
+            ]
+          ],
+          "subs": [
+            [
+              "中国、韩国"
+            ],
+            [
+              "德国、法国、美国、日本"
+            ]
+          ],
+          "replacement_links": [
+            {
+              "column": 0,
+              "turn": 1,
+              "source": "越南",
+              "alternatives": "中国、韩国",
+              "id": "book-2-0-link-0"
+            },
+            {
+              "column": 1,
+              "turn": 1,
+              "source": "中国",
+              "alternatives": "德国、法国、美国、日本",
+              "id": "book-2-0-link-1"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "title": "Khẳng định và phủ định với 是",
+          "formula": "S + 是 + danh từ　／　S + 不是 + danh từ",
+          "examples": [
+            [
+              "我是越南人。",
+              "Tôi là người Việt Nam."
+            ],
+            [
+              "我不是日本人。",
+              "Tôi không phải người Nhật Bản."
+            ]
+          ],
+          "note": "Tên nước + 人 để nói quốc tịch. 不 trong 不是 đọc bú。"
+        },
+        {
+          "title": "Hỏi nào bằng 哪",
+          "formula": "S + 是 + 哪国人？",
+          "examples": [
+            [
+              "你是哪国人？",
+              "Bạn là người nước nào?"
+            ],
+            [
+              "我是韩国人。",
+              "Tôi là người Hàn Quốc."
+            ]
+          ],
+          "note": "Có từ nghi vấn 哪 thì không thêm 吗 ở cuối câu."
+        }
+      ],
+      "grammar_pages": [
+        {
+          "id": "grammar-2-0-p0",
+          "points": [
+            {
+              "title": "KHẲNG ĐỊNH VỚI 是",
+              "formula": "Chủ ngữ + 是 + danh từ",
+              "examples": [
+                [
+                  "我是越南人。",
+                  "Tôi là người Việt Nam."
+                ],
+                [
+                  "他是中国人。",
+                  "Anh ấy là người Trung Quốc."
+                ],
+                [
+                  "她是老师。",
+                  "Cô ấy là giáo viên."
+                ],
+                [
+                  "我也是越南人。",
+                  "Tôi cũng là người Việt Nam."
+                ]
+              ],
+              "explain": "是 dùng để xác nhận người đó là ai hoặc thuộc nhóm nào.",
+              "targets": [
+                "是"
+              ]
+            }
+          ],
+          "note": "Chú ý: 是 nối chủ ngữ với danh từ, không dùng 是 trước tính từ trong câu đơn như 我很好。",
+          "practice": [
+            {
+              "vi": "Tôi là người Việt Nam.",
+              "fill": "我[[是]]越南人。",
+              "zh": "我是越南人。",
+              "audio_key": "grammar-ex-2-0",
+              "answer": "是"
+            },
+            {
+              "vi": "Cô ấy là giáo viên.",
+              "fill": "她是[[老师]]。",
+              "zh": "她是老师。",
+              "audio_key": "grammar-ex-2-1",
+              "answer": "老师"
+            },
+            {
+              "vi": "Anh ấy là người Trung Quốc.",
+              "zh": "他是中国人。",
+              "answer": "中国人",
+              "fill": "他是[[中国人]]。",
+              "audio_key": "grammar-ex-more-4"
+            }
+          ],
+          "source": "Sách A, tr.46 và khung Bạn cần biết tr.51, ý 2",
+          "practice_after": false
+        }
+      ]
+    }
+  ],
+  "reflex_questions": [
+    "你叫什么名字？",
+    "您贵姓？",
+    "这是谁？",
+    "她叫什么名字？",
+    "你是哪国人？",
+    "你是日本人吗？",
+    "他是中国人吗？",
+    "认识你很高兴。"
+  ],
+  "sources": {
+    "A": {
+      "printed": [
+        36,
+        46,
+        47,
+        48
+      ],
+      "pdf": [
+        36,
+        46,
+        47,
+        48
+      ]
+    },
+    "B": {
+      "printed": [
+        52,
+        53,
+        54,
+        55,
+        70,
+        71,
+        72,
+        78,
+        79
+      ],
+      "pdf": [
+        54,
+        55,
+        56,
+        57,
+        72,
+        73,
+        74,
+        80,
+        81
+      ]
+    },
+    "manual": {
+      "page": 5,
+      "unit": 2
+    }
+  },
+  "status": "preview",
+  "revision": "example-v1",
+  "duration_minutes": 90,
+  "practice": {
+    "rows": [
+      [
+        "叫",
+        "tên là"
+      ],
+      [
+        "名字",
+        "tên"
+      ],
+      [
+        "姓",
+        "mang họ"
+      ],
+      [
+        "朋友",
+        "bạn bè"
+      ],
+      [
+        "中国",
+        "Trung Quốc"
+      ],
+      [
+        "谁",
+        "ai"
+      ],
+      [
+        "越南",
+        "Việt Nam"
+      ],
+      [
+        "认识",
+        "quen biết"
+      ]
+    ],
+    "fill": [
+      [
+        "Tôi tên Nguyễn Thanh Hà.",
+        "我[[叫]]阮清河。"
+      ],
+      [
+        "Anh/chị họ gì ạ?",
+        "您[[贵姓]]？"
+      ],
+      [
+        "Đây là ai?",
+        "这是[[谁]]？"
+      ],
+      [
+        "Đây là bạn tôi.",
+        "这是我[[朋友]]。"
+      ],
+      [
+        "Tôi là người Việt Nam.",
+        "我是越南[[人]]。"
+      ],
+      [
+        "Tôi không phải người Nhật Bản.",
+        "我[[不]]是日本人。"
+      ]
+    ],
+    "order": [
+      [
+        "叫 / 我 / 麦克",
+        "我叫麦克。"
+      ],
+      [
+        "中国人 / 是 / 他",
+        "他是中国人。"
+      ],
+      [
+        "我朋友 / 这 / 是",
+        "这是我朋友。"
+      ],
+      [
+        "日本人 / 不是 / 我",
+        "我不是日本人。"
+      ],
+      [
+        "认识 / 你 / 很 / 高兴",
+        "认识你很高兴。"
+      ]
+    ],
+    "translate": [
+      [
+        "Bạn tên gì?",
+        "你叫什么名字？"
+      ],
+      [
+        "Tôi không phải người Nhật Bản.",
+        "我不是日本人。"
+      ],
+      [
+        "Cô ấy là ai?",
+        "她是谁？"
+      ],
+      [
+        "Bạn là người nước nào?",
+        "你是哪国人？"
+      ],
+      [
+        "Bạn có quen anh ấy không?",
+        "你认识他吗？"
+      ]
+    ],
+    "picture": [
+      [
+        "bai-khoa-1",
+        "A: 你叫什么名字？\nB: [[我叫阮清河]]。"
+      ],
+      [
+        "client-meeting",
+        "A: [[您贵姓]]？\nB: 我姓陈。"
+      ],
+      [
+        "luyen-3",
+        "A: 这是谁？\nB: [[这是我朋友]]。"
+      ],
+      [
+        "阮秋香",
+        "A: 她是日本人吗？\nB: [[她不是日本人]]。"
+      ]
+    ],
+    "long": [
+      [
+        "practice-mike-20261027",
+        [
+          [
+            "A",
+            "[[你叫什么名字]]？"
+          ],
+          [
+            "B",
+            "我叫麦克。[[你呢]]？"
+          ],
+          [
+            "A",
+            "[[我叫阮清河]]。"
+          ]
+        ]
+      ],
+      [
+        "practice-nationality-20261027",
+        [
+          [
+            "A",
+            "你是哪国人？"
+          ],
+          [
+            "B",
+            "[[我是中国人]]。[[你呢]]？"
+          ],
+          [
+            "A",
+            "我是越南人。"
+          ]
+        ]
+      ]
+    ],
+    "situations": [
+      [
+        "Làm quen với một người bạn mới và hỏi tên bạn ấy.",
+        "叫什么名字、我叫、认识、高兴"
+      ],
+      [
+        "Gặp giáo viên lần đầu và hỏi họ một cách lịch sự.",
+        "请问、您贵姓、我姓"
+      ],
+      [
+        "Chỉ một người trong tranh và hỏi đó là ai.",
+        "这是谁、他、她、老师"
+      ],
+      [
+        "Giới thiệu một người bạn với người thứ ba.",
+        "这是我朋友、他叫、她叫"
+      ],
+      [
+        "Hỏi quốc tịch và nói quốc tịch của mình.",
+        "哪国人、我是、越南人"
+      ],
+      [
+        "Người nghe đoán nhầm quốc tịch; hãy đính chính.",
+        "不是、日本人、中国人"
+      ]
+    ]
+  },
+  "active_vocabulary": [
+    "中国",
+    "人",
+    "什么",
+    "叫",
+    "名字",
+    "哪",
+    "国",
+    "姓",
+    "是",
+    "朋友",
+    "谁",
+    "贵姓",
+    "越南",
+    "这"
+  ],
+  "receptive_vocabulary": [
+    "请问",
+    "认识",
+    "高兴",
+    "德国",
+    "法国",
+    "美国",
+    "日本",
+    "韩国"
+  ],
+  "deferred": {
+    "unit4B": [
+      "学习",
+      "汉语",
+      "在",
+      "哪儿",
+      "大学",
+      "班"
+    ],
+    "unit5": [
+      "几",
+      "个"
+    ],
+    "unit6": [
+      "学生",
+      "留学生",
+      "教",
+      "位",
+      "有",
+      "我们",
+      "和",
+      "介绍",
+      "一下儿",
+      "的"
+    ],
+    "unit8": [
+      "多少",
+      "那",
+      "词典",
+      "电脑",
+      "书"
+    ]
+  },
+  "proper_name_pinyin": {
+    "阮清河": "Ruǎn Qīnghé",
+    "陈林": "Chén Lín",
+    "麦克": "Màikè",
+    "越南": "Yuènán",
+    "中国": "Zhōngguó",
+    "德国": "Déguó",
+    "法国": "Fǎguó",
+    "美国": "Měiguó",
+    "日本": "Rìběn",
+    "韩国": "Hánguó"
+  },
+  "source_notes": {
+    "A39": [
+      "很 và mức độ nhấn mạnh tùy ngữ cảnh",
+      "也 đứng sau chủ ngữ",
+      "贵姓 khi hỏi lịch sự, không dùng 贵 khi nói về người thứ ba",
+      "认识你很高兴 khi gặp lần đầu"
+    ],
+    "A51": [
+      "Viết hoa pinyin danh từ riêng; tách họ và tên",
+      "Đáp ngắn 是/不是 khi rõ ngữ cảnh",
+      "这 chỉ gần; phần 那 và từ đồ vật không khôi phục trong Unit 2"
+    ]
+  },
+  "storage_id": "workflow-example-unit2",
+  "example_only": true
+}
